@@ -1,1 +1,1 @@
-export const BASE_URL= 'https://sehu4cp40h.execute-api.eu-west-1.amazonaws.com/dev';
+export const BASE_URL= 'http://localhost:5000';
